@@ -7,7 +7,7 @@ In this notebook, we will use LSTM, to build a character-based model that genera
 Required Libraries
 We use the following libraries:
 
-•	keras
+•	keras \n
 •	tensorflow
 •	music21
 •	pandas
