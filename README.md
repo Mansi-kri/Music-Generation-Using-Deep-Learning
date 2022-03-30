@@ -7,10 +7,10 @@ In this notebook, we will use LSTM, to build a character-based model that genera
 Required Libraries
 We use the following libraries:
 
-keras
-tensorflow
-music21
-pandas
-numpy
-pygame
-timidity
+.keras
+.tensorflow
+.music21
+.pandas
+.numpy
+.pygame
+.timidity
