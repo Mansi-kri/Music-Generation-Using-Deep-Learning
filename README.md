@@ -14,6 +14,8 @@ For this work we will use the scale-chords dataset from here. Download the datas
 MIDI
 
 MIDI is a communications protocol for electronic musical instruments. A Python representation of a MIDI file looks something like this:
+![image](https://user-images.githubusercontent.com/66959193/163104662-3c5ab38c-605a-4b6d-9b9e-cf47c4a06e90.png)
+
 
 Required Libraries
 We use the following libraries:
