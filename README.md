@@ -21,12 +21,20 @@ From a higher-level perspective, the flow of data through the system looks like 
 
 
 Required Libraries
+
 We use the following libraries:
+
 keras 
+
 tensorflow
+
 music21
+
 pandas
+
 numpy
+
 pygame
+
 timidity
 
