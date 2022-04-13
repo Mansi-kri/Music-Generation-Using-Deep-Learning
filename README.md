@@ -1,8 +1,7 @@
 
 <h1>Music Generation Using Deep Learning</h1>
 
-The current technological advancements have transformed the way we not only produce, but listen and work with music. And with the advent of deep learning it has now become possible to generate music without the need of working with instruments artists may not have had access to or the skills to use previously. This offers artists more creative freedom and ability to explore different domains in music.
-
+Sequence-to-Sequence model using multi-layered LSTM for music generation.
 In this notebook, we will use LSTM, to build a character-based model that generates jazz piano notes.
 
 Dataset
@@ -23,12 +22,11 @@ From a higher-level perspective, the flow of data through the system looks like 
 
 Required Libraries
 We use the following libraries:
-
-•	keras 
-•	tensorflow
-•	music21
-•	pandas
-•	numpy
-•	pygame
-•	timidity
+keras 
+tensorflow
+music21
+pandas
+numpy
+pygame
+timidity
 
